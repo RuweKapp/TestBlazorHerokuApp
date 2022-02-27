@@ -1,0 +1,2 @@
+C:\Users\ruwek\Documents\Visual Studio Code\Projects\TestBlazorHerokuApp\TestBlazorApp\release\static.json
+C:\Users\ruwek\Documents\Visual Studio Code\Projects\TestBlazorHerokuApp\TestBlazorApp\release\web.config
